@@ -508,24 +508,6 @@ cities = [
   },
   {
     country: "PK",
-    name: "Adilpur",
-    lat: "27.93677",
-    lng: "69.31941",
-  },
-  {
-    country: "PK",
-    name: "Ahmadpur East",
-    lat: "29.14269",
-    lng: "71.25771",
-  },
-  {
-    country: "PK",
-    name: "Ahmadpur Sial",
-    lat: "30.67791",
-    lng: "71.74344",
-  },
-  {
-    country: "PK",
     name: "Akora",
     lat: "34.00337",
     lng: "72.12561",
